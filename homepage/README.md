@@ -1,7 +1,6 @@
 #
 
 ## :speech_balloon: Online Messaging Service
-- For CS50 Web Programming with Python and JavaScript - project 2.
 - Created an online messaging service similiar to Slack.
 - Used Python and `Flask` as the server framework.
 
